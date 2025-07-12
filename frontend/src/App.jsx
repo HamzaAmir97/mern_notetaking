@@ -6,7 +6,7 @@ import UpdatePage from "./pages/UpdatePage"
 
 const App = () => {
   return (
-    <div>
+    <div data-theme="dracula">
      <Routes>
    <Route  path="/"  element={<HomePage/>}/>
    <Route  path="/CreatePage"  element={<CreatePage/>}/>
