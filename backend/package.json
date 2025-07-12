@@ -17,6 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^4.18.2",
+    "mern_notetaking": "file:..",
     "mongodb": "^6.17.0",
     "mongoose": "^8.14.3",
     "nodemon": "^3.1.10"
