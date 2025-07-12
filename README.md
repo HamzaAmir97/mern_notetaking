@@ -15,7 +15,6 @@ A full-stack note-taking application built with the MERN (MongoDB, Express.js, R
 - 🚀 Completely Responsive UI
 - 🌐 Explore HTTP Methods, Status Codes & SQL vs NoSQL
 - 📦 Deployment Guide Included — Add the Live App to Your Resume
-- 📚 Designed for Absolute Beginners
 
 ## Getting Started
 
